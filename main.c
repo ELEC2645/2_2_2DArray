@@ -18,7 +18,7 @@ int main(void) {
         {9, 10, 11, 12}
     };
 
-    // Use sizeof to fand total size, row size, and element size
+    // Use sizeof to find total size, row size, and element size
     int total_size = sizeof(arr);
     int row_size = 0;
     int element_size = 0;
